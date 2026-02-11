@@ -95,7 +95,7 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 **Matthew C. Lind**  
 Designer & Developer  
-Overboard Media Group
+matthewlind.com  
 
 
 
